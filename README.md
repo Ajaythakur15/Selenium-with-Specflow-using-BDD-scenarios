@@ -1,7 +1,7 @@
 # Selenium-with-Specflow-using-BDD-scenarios
 #Selenium with Specflow This repo contains source code of all combinations of positive and negative Test cases in BDD format for ‘Type of Partner’ selection. We build the tests after clean solution then rebuild solution and run the tests with the help of test explorer in test tab. Open the project that you want to test in Visual Studio.
 
-For the purposes of demonstrating an example unit test, this article tests a simple "liberis.com.automate" C# N Unit test project named liberis.com.automate. The sample code for such a project is as follows:
+For the purposes of demonstrating an example unit test, this article tests a simple "liberis.com.automate" C# NUnit test project named liberis.com.automate. The sample code for such a project is as follows:
 
 .NET C#
 
@@ -9,7 +9,7 @@ In Solution Explorer, select the solution node. Then, from the top menu bar, sel
 
 In the new project dialog box, N Unit test project to use.
 
-Type test in the search box to find a NUnit test project template for the test framework you want to use, such as MSTest (C#) or the Native Unit Test project (C++), and select it.
+Type test in the search box to find a NUnit test project template for the test framework you want to use, such as NUnitTest (C#) and select it.
 
 Starting in Visual Studio 2019 Version 16.11.3, the .NET languages include built-in templates for NUnit and xUnit.
 
